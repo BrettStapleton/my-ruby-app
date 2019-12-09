@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my ruby blogger app.
 
-Things you may want to cover:
+Want to see it in action? [Click here](https://infinite-mountain-00956.herokuapp.com/).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Want to make your own? Follow along on The Odin Project [here](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors).
